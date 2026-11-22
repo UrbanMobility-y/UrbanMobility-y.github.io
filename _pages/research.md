@@ -31,7 +31,6 @@ author_profile: true
 <p class="rs-intro">My research studies how people and goods move within and between cities, and what these movements mean for the equity, sustainability and resilience of urban systems. I work with large-scale GPS and mobile phone trajectories, combined with open geospatial data, network science and GeoAI.</p>
 
 <ul class="rs-toc">
-<li><a href="#current-focus">Current focus</a></li>
 <li><a href="#walkability-and-the-15-minute-city">Walkability and the 15-minute city</a></li>
 <li><a href="#social-inequality-in-urban-mobility">Social inequality in urban mobility</a></li>
 <li><a href="#resilience-of-urban-systems-under-disruption">Resilience of urban systems under disruption</a></li>
@@ -41,8 +40,8 @@ author_profile: true
 </ul>
 
 <div class="rs-focus" id="current-focus">
-<h2>Current focus: Climate hazards and everyday urban life</h2>
-<p>Floods and extreme rainfall are becoming more frequent, yet their effects on cities are usually assessed through damage to buildings and infrastructure. We are extending the mobility methods described below to ask how climate hazards disrupt the everyday activities that residents depend on. One line of work links US neighborhoods to the food stores their residents visit, to examine how far everyday food access relies on stores located in floodplains. Another uses daily card spending across Chinese cities to examine whether economic ties between cities cushion or transmit the effects of extreme rainfall.</p>
+<h2>Current focus: Climate hazards and urban mobility</h2>
+<p>Floods and extreme rainfall are becoming more frequent and increasingly affect how people live, work and travel in cities. My current work extends large-scale mobility analysis to examine how climate hazards disrupt the activities that residents depend on, such as working, shopping and accessing services. The aim is to measure climate risk through the places people rely on in daily life, and to support planning for more sustainable and resilient cities.</p>
 </div>
 
 <div class="rs-theme" id="walkability-and-the-15-minute-city" markdown="0">
