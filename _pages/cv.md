@@ -7,48 +7,21 @@ redirect_from:
   - /resume
 ---
 
-Academic appointments
-======
-* **Research Associate**, School of Architecture, Building and Civil Engineering, Loughborough University, UK (2026–present)
-  * Research project on resilient cities: how floods and extreme rainfall disrupt access to everyday services and the economic links between cities.
-* **Research Fellow**, School of Geography, University of Leeds, UK (2024–2026)
-  * Research projects on perceived and sustainable cities: experienced walkability and GeoAI for street-level pedestrian activity.
-* **Research Assistant**, School of Civil and Environmental Engineering, Nanyang Technological University, Singapore (2023–2024)
+<style>
+.cv-actions{display:flex;flex-wrap:wrap;gap:.6em;align-items:center;margin:0 0 1em}
+.cv-btn{display:inline-block;font-size:.85em;padding:.35em .9em;border:1px solid #c8ccd0;border-radius:4px;color:#333;background:#fff}
+.cv-btn:hover{background:#f3f4f6}
+.cv-date{font-size:.8em;color:#777}
+.cv-frame{width:100%;height:calc(100vh - 140px);min-height:720px;border:1px solid #e1e4e8;border-radius:4px}
+@media (max-width:700px){.cv-frame{min-height:520px}}
+</style>
 
-Education
-======
-* **PhD in Systems Science**, Beijing Jiaotong University, China (2019–2024)
-* **Visiting PhD Student**, Faculty of Civil Engineering and Geosciences, Delft University of Technology, the Netherlands (2022–2023)
-* **BSc in Transportation**, School of Traffic and Transportation Engineering, Central South University, China (2014–2018)
+<div class="cv-actions">
+<a class="cv-btn" href="/files/CV_Yitao_Yang.pdf" download>Download CV (PDF)</a>
+<a class="cv-btn" href="/files/CV_Yitao_Yang.pdf" target="_blank" rel="noopener">Open in new tab</a>
+<span class="cv-date">Updated November 2026</span>
+</div>
 
-Research funding
-======
-* Principal Investigator, Fundamental Research Funds for the Central Universities, Ministry of Education, China (2021)
-* Innovative Talent International Cooperation Fellowship, China Scholarship Council: 12-month research visit to TU Delft (2022)
-
-Publications
-======
-17 first- or corresponding-author papers and 20 co-authored papers. See [Publications](/publications/).
-
-Teaching
-======
-* Teaching Assistant, Beijing Jiaotong University (2021, 2022): MSc courses *Data-driven Transport System Planning* and *Human Mobility Modelling*.
-
-Conference presentations
-======
-* International Conference on Interdisciplinary Urban Studies (City+), Mytilene, Greece (2026)
-* World Symposium on Transport and Land Use Research (WSTLUR), Beijing, China (2026)
-* World Conference on Transport Research (WCTR), Young Researchers' Initiative, Toulouse, France (2026)
-* Conference on Complex Systems (CCS), Siena, Italy (2025)
-* Conference on Complex Systems (CCS), Exeter, UK (2024)
-* GIS Research UK (GISRUK), Leeds, UK (2024)
-* International Conference of the Hong Kong Society for Transportation Studies (HKSTS), Hong Kong (2023)
-
-Professional service
-======
-* Peer review: *Nature Cities*; *Journal of Transport Geography*; *Humanities and Social Sciences Communications*.
-
-Methods and skills
-======
-* Spatial statistics and GAMs; pedestrian-network accessibility modelling; trajectory mining of GPS and mobile-phone data; network science; graph neural networks and gradient boosting.
-* Python (GeoPandas, pandana, NetworKit, PyTorch Geometric, XGBoost); R (mgcv); GIS; GPU and high-performance computing.
+<object class="cv-frame" data="/files/CV_Yitao_Yang.pdf#view=FitH" type="application/pdf">
+<p>Your browser cannot display the PDF here. <a href="/files/CV_Yitao_Yang.pdf">Download the CV (PDF)</a>.</p>
+</object>
