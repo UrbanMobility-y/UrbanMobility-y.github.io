@@ -26,8 +26,7 @@ ol.pubs li{margin:0 0 1.05em;font-size:.92em;line-height:1.55}
 <div class="pub-hl">
 <a href="/research/#walkability-and-the-15-minute-city"><img src="/images/research/2026_nc_walkability.jpg" alt="Experienced walkability across 82 Chinese cities"></a>
 <div><p class="hl-label">Highlight</p>
-<p><strong>Yang Y†</strong>, Liu E†, Jia B, Cheng S, Manley E (accepted). Experienced walkability and the paradox of urban density in Chinese cities. <em>Nature Communications</em>. <span class="pub-tag">Accepted</span></p>
-<p>Reconstructing 1.50 billion walking trips across 82 Chinese cities, this study shows that dense, amenity-rich places support walking through proximity but expose pedestrians to heavier traffic, a density paradox that is stronger in monocentric cities.</p></div>
+<p><strong>Yang Y†</strong>, Liu E†, Jia B, Cheng S, Manley E (accepted). Experienced walkability and the paradox of urban density in Chinese cities. <em>Nature Communications</em>. <span class="pub-tag">Accepted</span></p></div>
 </div>
 
 <h2 id="first-author">First author (16)</h2>
