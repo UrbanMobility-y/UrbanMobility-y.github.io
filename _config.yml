@@ -27,8 +27,8 @@ author:
   name             : "Yitao Yang"
   pronouns         : # example: "she/her"  
   bio              : "Research Associate in Transport Data and AI"
-  location         : "Loughborough, UK"
-  employer         : "Loughborough University"
+  location         : # merged into employer line
+  employer         : "Loughborough University, Loughborough, UK"
   uri              : # URL
   email            : "y.yang15@lboro.ac.uk" 
 
