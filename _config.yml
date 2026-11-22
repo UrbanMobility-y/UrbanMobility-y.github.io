@@ -28,7 +28,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Research Associate in Transport Data and AI"
   location         : # merged into employer line
-  employer         : "Loughborough University, Loughborough, UK"
+  employer         : '<span style="display:inline-block;vertical-align:top">Loughborough University,<br>Loughborough, UK</span>'
   uri              : # URL
   email            : "y.yang15@lboro.ac.uk" 
 
