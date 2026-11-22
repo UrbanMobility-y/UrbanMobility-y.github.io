@@ -23,7 +23,7 @@ author_profile: true
 .rs-pair img{width:100%;height:auto;border:1px solid #eee}
 @media (max-width:800px){.rs-card,.rs-pair{flex-direction:column}.rs-fig,.rs-text,.rs-pair figure{flex-basis:auto;width:100%}}
 .rs-q{font-style:italic;color:#555;font-size:1.02em;margin:-.3em 0 .7em}
-.rs-focus{background:#f6f8fa;border:1px solid #e1e4e8;border-left:4px solid #494e52;border-radius:4px;padding:.9em 1.2em;margin:1.5em 0 .5em}
+.rs-focus{background:#f6f8fa;border:1px solid #e1e4e8;border-left:4px solid #494e52;border-radius:4px;padding:.9em 1.2em;margin:2.5em 0 1em}
 .rs-focus h2{margin:.1em 0 .5em;font-size:1.2em;border-bottom:none}
 .rs-focus p{margin:0;line-height:1.6;font-size:.95em}
 </style>
@@ -38,11 +38,6 @@ author_profile: true
 <li><a href="#structure-and-function-of-urban-freight-systems">Structure and function of urban freight systems</a></li>
 <li><a href="#trajectory-analytics-and-geospatial-data-fusion">Trajectory analytics and geospatial data fusion</a></li>
 </ul>
-
-<div class="rs-focus" id="current-focus">
-<h2>Current focus: Climate hazards and urban mobility</h2>
-<p>Floods and extreme rainfall are becoming more frequent and increasingly affect how people live, work and travel in cities. My current work extends large-scale mobility analysis to examine how climate hazards disrupt the activities that residents depend on, such as working, shopping and accessing services. The aim is to measure climate risk through the places people rely on in daily life, and to support planning for more sustainable and resilient cities.</p>
-</div>
 
 <div class="rs-theme" id="walkability-and-the-15-minute-city" markdown="0">
 <h2>Walkability and the 15-minute city</h2>
@@ -79,7 +74,7 @@ author_profile: true
 <div class="rs-theme" id="resilience-of-urban-systems-under-disruption" markdown="0">
 <h2>Resilience of urban systems under disruption</h2>
 <p class="rs-q">How do cities keep functioning when shocks disrupt everyday mobility?</p>
-<p class="rs-theme-intro">Disruptions reveal how urban systems absorb and redistribute stress. We use individual truck trajectories and highway toll records to observe these responses directly, rather than inferring them from aggregate socioeconomic data. The COVID-19 pandemic allows us to examine three scales: freight demand between cities, the operating efficiency of urban truck networks, and the reorganization of national flows after the shutdown of a major hub. Across these scales, spatial structure is associated with how freight systems adapt. These studies motivate our current work on climate hazards.</p>
+<p class="rs-theme-intro">Disruptions reveal how urban systems absorb and redistribute stress. We use individual truck trajectories and highway toll records to observe these responses directly, rather than inferring them from aggregate socioeconomic data. The COVID-19 pandemic allows us to examine three scales: freight demand between cities, the operating efficiency of urban truck networks, and the reorganization of national flows after the shutdown of a major hub. Across these scales, spatial structure is associated with how freight systems adapt. These studies motivate ongoing work on climate hazards.</p>
 <div class="rs-card">
 <div class="rs-text"><p><strong>Modeling pandemic impacts on intercity freight.</strong> Using GPS data from more than 2.7 million trucks before and after the COVID-19 outbreak, we quantified structural changes in intercity freight demand and developed an interpretable machine learning model of freight trip generation. The factors shaping truck movements shifted at both local and regional scales.</p></div>
 <figure class="rs-fig"><a href="/images/research/2024_trc_covid_intercity.jpg"><img src="/images/research/2024_trc_covid_intercity.jpg" alt="Modeling pandemic impacts on intercity freight" loading="lazy"></a><p class="fig-src">Figure source: Yang Y, et al. (2024). Transportation Research Part C, 169, 104861. <a href="https://doi.org/10.1016/j.trc.2024.104861">[Paper]</a></p></figure>
@@ -138,4 +133,9 @@ author_profile: true
 <figure><a href="/images/research/2022_trc_trip_ends.jpg"><img src="/images/research/2022_trc_trip_ends.jpg" alt="Intracity freight trip end identification" loading="lazy"></a><p class="fig-src">Figure source: Yang Y, et al. (2022). Transportation Research Part C, 136, 103564. <a href="https://doi.org/10.1016/j.trc.2022.103564">[Paper]</a></p></figure>
 <figure><a href="/images/research/2022_tre_intercity_trip_ends.jpg"><img src="/images/research/2022_tre_intercity_trip_ends.jpg" alt="Intercity freight trips of heavy trucks in China" loading="lazy"></a><p class="fig-src">Figure source: Yang Y, et al. (2022). Transportation Research Part E, 157, 102590. <a href="https://doi.org/10.1016/j.tre.2021.102590">[Paper]</a></p></figure>
 </div>
+</div>
+
+<div class="rs-focus" id="ongoing-work">
+<h2>Ongoing work: Climate hazards and urban mobility</h2>
+<p>Floods and extreme rainfall are becoming more frequent and increasingly affect how people live, work and travel in cities. My current work extends large-scale mobility analysis to examine how climate hazards disrupt the activities that residents depend on, such as working, shopping and accessing services. The aim is to measure climate risk through the places people rely on in daily life, and to support planning for more sustainable and resilient cities.</p>
 </div>
