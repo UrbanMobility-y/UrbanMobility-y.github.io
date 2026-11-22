@@ -37,6 +37,7 @@ author_profile: true
 <li><a href="#geoai-for-mobility-prediction">GeoAI for mobility prediction</a></li>
 <li><a href="#structure-and-function-of-urban-freight-systems">Structure and function of urban freight systems</a></li>
 <li><a href="#trajectory-analytics-and-geospatial-data-fusion">Trajectory analytics and geospatial data fusion</a></li>
+<li><a href="#ongoing-work">Ongoing work</a></li>
 </ul>
 
 <div class="rs-theme" id="walkability-and-the-15-minute-city" markdown="0">
