@@ -13,12 +13,12 @@ Previously, I was a Research Fellow at the [Mobility Science Lab](https://mobsci
 
 Research themes
 ------
-* Trajectory analytics and geospatial data fusion
+* Walkability and the 15-minute city
+* Social inequality in urban mobility
+* Resilience of urban systems under disruption
 * GeoAI for mobility prediction
 * Structure and function of urban freight systems
-* Social inequality in urban mobility
-* Walkability and the 15-minute city
-* Resilience of urban systems under disruption
+* Trajectory analytics and geospatial data fusion
 
 News
 ------
