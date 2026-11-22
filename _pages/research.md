@@ -34,8 +34,8 @@ author_profile: true
 <li><a href="#walkability-and-the-15-minute-city">Walkability and the 15-minute city</a></li>
 <li><a href="#social-inequality-in-urban-mobility">Social inequality in urban mobility</a></li>
 <li><a href="#resilience-of-urban-systems-under-disruption">Resilience of urban systems under disruption</a></li>
-<li><a href="#structure-and-function-of-urban-freight-systems">Structure and function of urban freight systems</a></li>
 <li><a href="#geoai-for-mobility-prediction">GeoAI for mobility prediction</a></li>
+<li><a href="#structure-and-function-of-urban-freight-systems">Structure and function of urban freight systems</a></li>
 <li><a href="#trajectory-analytics-and-geospatial-data-fusion">Trajectory analytics and geospatial data fusion</a></li>
 </ul>
 
@@ -94,6 +94,20 @@ author_profile: true
 </div>
 </div>
 
+<div class="rs-theme" id="geoai-for-mobility-prediction" markdown="0">
+<h2>GeoAI for mobility prediction</h2>
+<p class="rs-q">How can mobility be estimated where detailed data are unavailable?</p>
+<p class="rs-theme-intro">Detailed mobility data are available for few places and are often proprietary, which limits their use in planning. GeoAI can learn how observed mobility relates to the spatial characteristics of cities where data exist and extend this relationship to places where they do not. We apply this idea at two scales, intercity freight flows and street-level pedestrian activity, and in both cases examine not only predictive performance but also which urban features the models rely on.</p>
+<div class="rs-card">
+<div class="rs-text"><p><strong>Estimating intercity freight flows.</strong> We adapted the Deep Gravity framework to heavy truck flows among 368 Chinese cities, where it substantially outperformed the classical gravity model. Explainable AI showed that integrated markets strengthen spatial effects at distances below about 300 km and weaken them beyond.</p></div>
+<figure class="rs-fig"><a href="/images/research/2023_tre_deep_gravity.jpg"><img src="/images/research/2023_tre_deep_gravity.jpg" alt="Estimating intercity freight flows" loading="lazy"></a><p class="fig-src">Figure source: Yang Y, et al. (2023). Transportation Research Part E, 179, 103320. <a href="https://doi.org/10.1016/j.tre.2023.103320">[Paper]</a></p></figure>
+</div>
+<div class="rs-card">
+<div class="rs-text"><p><strong>Mapping street-level pedestrian activity.</strong> We developed WalkGeoAI, open-source software that estimates within-city relative pedestrian activity from seven global open datasets with a pretrained graph neural network, without local labels or retraining. Validated in five cities, it has been deployed to more than 5.7 million road segments in 20 cities.</p></div>
+<figure class="rs-fig"><a href="/images/research/2026_ceus_walkgeoai.jpg"><img src="/images/research/2026_ceus_walkgeoai.jpg" alt="Mapping street-level pedestrian activity" loading="lazy"></a><p class="fig-src">Figure source: Yang Y, et al. (2026). Computers, Environment and Urban Systems (accepted). <a href="https://github.com/UrbanMobility-y/WalkGeoAI">[Code]</a></p></figure>
+</div>
+</div>
+
 <div class="rs-theme" id="structure-and-function-of-urban-freight-systems" markdown="0">
 <h2>Structure and function of urban freight systems</h2>
 <p class="rs-q">How is urban freight organized, and what mechanisms produce its structure?</p>
@@ -113,20 +127,6 @@ author_profile: true
 <div class="rs-card">
 <div class="rs-text"><p><strong>Modeling truck tour decisions.</strong> Using Dutch carrier and shipment data, we classified more than 1,000 tour patterns into direct, sequential and complex tours and modeled their choice with random parameters logit models. Weekend shipments, transshipment terminals and freight sector strongly influence tour choice, with effects that vary across shipments.</p></div>
 <figure class="rs-fig"><a href="/images/research/2026_tp_tours.jpg"><img src="/images/research/2026_tp_tours.jpg" alt="Modeling truck tour decisions" loading="lazy"></a><p class="fig-src">Figure source: Yang Y, et al. (2026). Transport Policy, 178, 103958. <a href="https://doi.org/10.1016/j.tranpol.2025.103958">[Paper]</a></p></figure>
-</div>
-</div>
-
-<div class="rs-theme" id="geoai-for-mobility-prediction" markdown="0">
-<h2>GeoAI for mobility prediction</h2>
-<p class="rs-q">How can mobility be estimated where detailed data are unavailable?</p>
-<p class="rs-theme-intro">Detailed mobility data are available for few places and are often proprietary, which limits their use in planning. GeoAI can learn how observed mobility relates to the spatial characteristics of cities where data exist and extend this relationship to places where they do not. We apply this idea at two scales, intercity freight flows and street-level pedestrian activity, and in both cases examine not only predictive performance but also which urban features the models rely on.</p>
-<div class="rs-card">
-<div class="rs-text"><p><strong>Estimating intercity freight flows.</strong> We adapted the Deep Gravity framework to heavy truck flows among 368 Chinese cities, where it substantially outperformed the classical gravity model. Explainable AI showed that integrated markets strengthen spatial effects at distances below about 300 km and weaken them beyond.</p></div>
-<figure class="rs-fig"><a href="/images/research/2023_tre_deep_gravity.jpg"><img src="/images/research/2023_tre_deep_gravity.jpg" alt="Estimating intercity freight flows" loading="lazy"></a><p class="fig-src">Figure source: Yang Y, et al. (2023). Transportation Research Part E, 179, 103320. <a href="https://doi.org/10.1016/j.tre.2023.103320">[Paper]</a></p></figure>
-</div>
-<div class="rs-card">
-<div class="rs-text"><p><strong>Mapping street-level pedestrian activity.</strong> We developed WalkGeoAI, open-source software that estimates within-city relative pedestrian activity from seven global open datasets with a pretrained graph neural network, without local labels or retraining. Validated in five cities, it has been deployed to more than 5.7 million road segments in 20 cities.</p></div>
-<figure class="rs-fig"><a href="/images/research/2026_ceus_walkgeoai.jpg"><img src="/images/research/2026_ceus_walkgeoai.jpg" alt="Mapping street-level pedestrian activity" loading="lazy"></a><p class="fig-src">Figure source: Yang Y, et al. (2026). Computers, Environment and Urban Systems (accepted). <a href="https://github.com/UrbanMobility-y/WalkGeoAI">[Code]</a></p></figure>
 </div>
 </div>
 
