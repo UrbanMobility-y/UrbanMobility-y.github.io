@@ -36,3 +36,9 @@
     "layout/archive",
     "layout/sidebar"
 ;
+/* No underlines on links (site-wide) */
+a, a:hover, a:focus, a:visited,
+.page__content a, .page__content a:hover,
+.archive a, .archive a:hover {
+  text-decoration: none !important;
+}

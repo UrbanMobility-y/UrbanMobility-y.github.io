@@ -7,11 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Associate at the School of Architecture, Building and Civil Engineering, [Loughborough University](https://www.lboro.ac.uk/), UK. My research uses large-scale mobility data to understand how people and goods move within and between cities, and how transport systems shape the **equity**, **sustainability** and **resilience** of cities.
+I am a Research Associate at the [Transport AI Innovation Centre (TRAICE)](https://www.lboro.ac.uk/research/traice/), School of Architecture, Building and Civil Engineering, Loughborough University, UK. My research studies how people and goods move within and between cities, and how transport systems shape urban equity, sustainability and resilience. I develop data-driven methods that turn large-scale GPS and mobile phone trajectories into measures of how cities function, drawing on network science, behavioral modeling and GeoAI.
 
-My work combines GPS and mobile phone trajectories with open geospatial data, network science and GeoAI. I release my methods as open-source software and data.
-
-Previously, I was a Research Fellow at the School of Geography, [University of Leeds](https://www.leeds.ac.uk/) (2024–2026), and a Research Assistant at Nanyang Technological University, Singapore (2023–2024). I received my PhD in Systems Science from Beijing Jiaotong University (2024), including a 12-month research visit to Delft University of Technology, and my BSc in Transportation from Central South University (2018).
+Previously, I was a Research Fellow at the [Mobility Science Lab](https://mobscilab.com/), School of Geography, University of Leeds (2024–2026), and a Research Assistant at Nanyang Technological University, Singapore. I received my PhD in Systems Science from Beijing Jiaotong University (2024), including a 12-month research visit to the [Freight Transport & Logistics Lab](https://www.tudelft.nl/en/tu-delft-transport-institute/research-themes/freight-transport-logistics-en), Delft University of Technology, and my BSc in Transportation from Central South University (2018).
 
 Research themes
 ------
